@@ -39,6 +39,7 @@ public class DetailActivity extends AppCompatActivity{
         String avatarUrl = getIntent().getExtras().getString("avatar_url");
 
         Link.setText(linkUrl);
+        Link.setTextColor(getResources().getColor(R.color.linkColor));
         Linkify.addLinks(Link, Linkify.WEB_URLS);
         Username.setText(username);
         Glide.with(this)

@@ -53,6 +53,6 @@
         android:textAlignment="center"
         android:textSize="20dp"
         android:layout_below="@id/github_link"
-        android:textColor="#303F9F"/>
+        android:textColor="@color/linkColor"/>
 
 </RelativeLayout>
