@@ -5,8 +5,8 @@ Andela Project For Intermediate Level Android Developers
 * Picasso For Image rendering
 * Glide for Image caching
 
-#Contributors
+# Contributors
 * Owolabi Tobiloba
 
-#App Description
+# App Description
 ** An android app that fetches a list of Java developers residing in Lagos.
